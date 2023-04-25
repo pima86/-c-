@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int f1, f2, c, n;
+	cin >> f1 >> f2 >> c >> n;
+
+	if (f1 * n + f2 <= c * n && c - f1 >= 0)
+		cout << 1 << endl;
+	else
+		cout << 0 << endl;
+}
