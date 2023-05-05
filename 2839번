@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+int main() {
+	int kg;
+	cin >> kg;
+
+	int amount = 0;
+
+	for (int i = 0; i <= kg / 3; i++)
+	{
+		for (int j = 0; j <= kg / 5; j++)
+		{
+			if (kg == (i * 3) + (j * 5))
+			{
+				cout << i + j;
+				return 0;
+			}
+		}
+	}
+	cout << -1;
+}
