@@ -17,7 +17,7 @@
 
 ![c68f5b1ce1f224c65d635f9c83e4d59e](https://github.com/pima86/TurnBase_TCG/assets/71416955/184d200d-2101-425f-9b5c-8a93134e4feb)
 
-##### 🍺 It has implemented various elements such as in-game stories, equipment, decks, and battles!
+##### 🍺 I will divide the files by the level of the problem and interpret and solve each problem through README!
 ###### 문제의 등급별로 파일을 나누고 각각의 문제마다 README를 통해 해석과 풀이를 할 예정입니다!
 
 <br/>
