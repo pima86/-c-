@@ -1,3 +1,4 @@
+```
 using System;
 using System.Collections.Generic;
 using System.Reflection;
@@ -61,3 +62,4 @@ class solution_2751
             Console.WriteLine(i);
     }
 }
+```
