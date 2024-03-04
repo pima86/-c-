@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&text=)
 
+###### 프로필 URL
+[<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/user/wellesys)
+
 ### 🍏 This is a page that summarizes the problem solving of coding problem site Baekjun!
 #### 코딩문제 사이트인 백준에서의 문제풀이를 정리해놓은 페이지입니다!
 
@@ -29,11 +32,5 @@
 ###### 📚 Silver 5 [수 정렬하기 2] + C#병합정렬!
 [<img src="https://img.shields.io/badge/C-32CD32?style=for-the-badge&logo=C&logoColor=white"/>](https://github.com/pima86/BACKJOON/blob/main/C++/Silver/2751)
 [<img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/2751)
-
-<br/>
-<br/>
-
-###### URL
-[<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/user/wellesys)
 
 </div>
