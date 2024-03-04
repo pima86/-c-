@@ -22,7 +22,7 @@
 
 <br/>
 
-###### 📚 Silver 5 [수 정렬하기 2] + 병합정렬!
+###### 📚 Silver 5 [수 정렬하기 2] + C#병합정렬!
 [<img src="https://img.shields.io/badge/C-32CD32?style=for-the-badge&logo=C&logoColor=white"/>](https://github.com/pima86/BACKJOON/blob/main/C++/Silver/2751/Sort.md)
 [<img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/blob/main/C%23/Silver/2751/Merge_Sort.md)
 
