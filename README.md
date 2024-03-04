@@ -2,11 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&text=)
 
-###### 프로필 URL
-[<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/user/wellesys)
-
 ### 🍏 This is a page that summarizes the problem solving of coding problem site Baekjun!
 #### 코딩문제 사이트인 백준에서의 문제풀이를 정리해놓은 페이지입니다!
+
+###### 프로필 URL
+[<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/user/wellesys)
 
 <br/>
 
