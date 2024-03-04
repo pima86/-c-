@@ -11,7 +11,7 @@
 ![i16646842656](https://github.com/pima86/BACKJOON/assets/71416955/9414b15a-5261-4863-a618-936fa0aa84d1)
 
 ##### 풀이에 앞서!
-###### 문제는 System.Collections.Array.Sort를 활용 목적으로 작성됐지만 학습을 위해 병합 정렬과 힙 정렬로 작성하기로 했습니다!
+###### 문제는 System.Collections.Array.Sort를 활용 목적으로 작성됐지만 학습을 위해 병합 정렬로 작성해봤습니다!
 
 <br/>
 
