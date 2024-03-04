@@ -17,7 +17,7 @@
 
 ![c68f5b1ce1f224c65d635f9c83e4d59e](https://github.com/pima86/TurnBase_TCG/assets/71416955/184d200d-2101-425f-9b5c-8a93134e4feb)
 
-##### Silver 5 [수 정렬하기 2] + 병합정렬!
+##### 📚 Silver 5 [수 정렬하기 2] + 병합정렬!
 [<img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white"/>](https://github.com/pima86/BACKJOON/blob/main/C++/Silver/2751/Sort.md)
 [<img src="https://img.shields.io/badge/C%23-4479A1?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/blob/main/C%23/Silver/2751/Merge_Sort.md)
 
