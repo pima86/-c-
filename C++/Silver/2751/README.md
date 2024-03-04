@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-![i16646842656](https://github.com/pima86/BACKJOON/assets/71416955/9414b15a-5261-4863-a618-936fa0aa84d1)
+![9763b76755be18ef84e0c3606fe21e98](https://github.com/pima86/BACKJOON/assets/71416955/09aacbca-d959-4e7f-b30a-a39621da68da)
 
 <br/>
 
