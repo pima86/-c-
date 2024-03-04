@@ -1,6 +1,5 @@
-Solution 2751번 [수 정렬하기 2] => https://www.acmicpc.net/problem/2751
-
-Array.sort()를 활용해서 풀어야할 문제지만 학습의 목적을 위해 병합 정렬로 구현해봤습니다.
+###### Solution 2751번 [수 정렬하기 2] => https://www.acmicpc.net/problem/2751
+###### Array.sort()를 활용해서 풀어야할 문제지만 학습의 목적을 위해 병합 정렬로 구현해봤습니다.
 
 ```ruby
 using System;
