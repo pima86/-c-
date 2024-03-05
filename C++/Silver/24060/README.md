@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-![9763b76755be18ef84e0c3606fe21e98](https://github.com/pima86/BACKJOON/assets/71416955/09aacbca-d959-4e7f-b30a-a39621da68da)
+![274ef6f6b007b58ca81cb280a17f90d2](https://github.com/pima86/BACKJOON/assets/71416955/cd28938c-cf03-4c8a-a2d5-e77dc0ca164d)
 
 <br/>
 
