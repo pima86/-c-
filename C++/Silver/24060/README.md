@@ -1,0 +1,29 @@
+<div align="center"> 
+
+![header](https://capsule-render.vercel.app/api?type=Slice&text=)
+
+### 🍏 문제!
+#### 오늘도 서준이는 병합 정렬 수업 조교를 하고 있다. 아빠가 수업한 내용을 학생들이 잘 이해했는지 문제를 통해서 확인해보자.
+#### N개의 서로 다른 양의 정수가 저장된 배열 A가 있다.
+#### 병합 정렬로 배열 A를 오름차순 정렬할 경우 배열 A에 K 번째 저장되는 수를 구해서 우리 서준이를 도와주자.
+
+<br/>
+<br/>
+
+![9763b76755be18ef84e0c3606fe21e98](https://github.com/pima86/BACKJOON/assets/71416955/09aacbca-d959-4e7f-b30a-a39621da68da)
+
+<br/>
+
+##### 풀이!
+###### 배열을 분리 >> 비교 >> 병합하는 과정으로 정리하는 병합 정렬을 구현하는 문제입니다!
+###### 재귀적으로 Merge함수를 호출해 하나의 정수로 분리하고
+###### MergeSort함수에서 이를 비교 후 정렬 및 count가 K와 동일해질 때의 값을 출력하여 문제에서 요구하는 바를 달성했습니다!
+
+<br/>
+<br/>
+
+###### 문제 URL
+[<img src="https://img.shields.io/badge/Acmicpc-03C75A?style=flat-square&logo=codementor&logoColor=white"/>](https://www.acmicpc.net/problem/24060)
+
+</div>
+
