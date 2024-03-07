@@ -26,7 +26,7 @@
 [<img src="https://img.shields.io/badge/C-32CD32?style=for-the-badge&logo=C&logoColor=white"/>](https://github.com/pima86/BACKJOON/tree/main/C%2B%2B/Gold/2447)
 [<img src="https://img.shields.io/badge/C%23-FF0000?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/tree/main/C%2B%2B/Gold/2447)
 
-###### 📙 Silver 2 [최대 힙]!
+###### 📗 Silver 2 [최대 힙]!
 [<img src="https://img.shields.io/badge/C-32CD32?style=for-the-badge&logo=C&logoColor=white"/>](https://github.com/pima86/BACKJOON/blob/main/C++/Silver/11279)
 [<img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/11279)
 
