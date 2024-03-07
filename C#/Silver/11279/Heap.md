@@ -1,6 +1,6 @@
-```ruby
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Security.Policy;
 using System.Text;
@@ -11,6 +11,9 @@ namespace Project1
 {
     class FileName
     {
+        static StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
+        static StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
+        static StringBuilder sb = new StringBuilder();
         static List<int> heap = new List<int>();
 
         static void Heap_Add(int x)
@@ -24,20 +27,17 @@ namespace Project1
                 if (heap[p] < heap[size])
                 {
                     Swap(p, size);
+                    size = p;
                 }
                 else
-                {
                     break;
-                }
             }
         }
 
         static void Heap_Pop()
         {
             if (heap.Count == 0)
-            {
-                Console.WriteLine("0");
-            }
+                sb.AppendLine("0");
             else
             {
                 int temp = heap[0];
@@ -53,14 +53,13 @@ namespace Project1
                     if (index < j && heap[index] < heap[index + 1])
                         index = index + 1;
 
-                    if (index > j || heap[i] >= heap[index])
+                    if (index > j || heap[i] > heap[index])
                         break;
 
                     Swap(i, index);
                     i = index;
                 }
-
-                Console.WriteLine(temp);
+                sb.AppendLine(temp.ToString());
             }
         }
 
@@ -73,18 +72,21 @@ namespace Project1
 
         static void Main()
         {
-            int N = int.Parse(Console.ReadLine());
+            int N = int.Parse(sr.ReadLine());
             while (N-- > 0)
             {
-                int num = int.Parse(Console.ReadLine());
-                
-                if(num == 0)
+                int num = int.Parse(sr.ReadLine());
+
+                if (num == 0)
                     Heap_Pop();
                 else
                     Heap_Add(num);
             }
+
+            sw.Write(sb.ToString());
+
+            sw.Close();
+            sr.Close();
         }
     }
 }
-
-```
