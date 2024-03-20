@@ -38,7 +38,11 @@
 [<img src="https://img.shields.io/badge/C-32CD32?style=for-the-badge&logo=C&logoColor=white"/>](https://github.com/pima86/BACKJOON/blob/main/C++/Silver/11279)
 [<img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/11279)
 
-###### 📙 Silver 2 [유기농 배추 - 그래프 탐색]
+###### 📙 Silver 2 [유기농 배추 - 그래프 탐색] (Readme 수정 필요)
+[<img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=C&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/1012)
+
+###### 📙 Silver 2 [DFS와 BFS] (Readme 수정 필요)
 [<img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=C&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=csharp&logoColor=white"/>](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/1012)
 
