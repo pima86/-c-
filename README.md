@@ -36,8 +36,8 @@
 #### C#
 ##### Gold 5 [Fly me to the Alpha Centauri](https://github.com/pima86/BACKJOON/tree/main/C%23/Gold/1011)
 ##### Silver 2 [최대 힙](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/11279)
-##### Silver 2 [유기농 배추 - 그래프 탐색](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/1012) (Readme 수정 필요)
-##### Silver 2 [DFS와 BFS](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/1012) (Readme 수정 필요)
+##### Silver 2 [유기농 배추 - 그래프 탐색](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/1012)
+##### Silver 2 [DFS와 BFS](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/1012)
 ##### Silver 5 [수 정렬하기 2 + C#병합정렬](https://github.com/pima86/BACKJOON/tree/main/C%23/Silver/2751)
 
 
